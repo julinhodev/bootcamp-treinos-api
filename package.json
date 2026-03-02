@@ -17,7 +17,9 @@
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",
+    "dotenv": "17.3.1",
     "eslint-config-prettier": "10.1.8",
+    "fastify": "5.7.4",
     "tsx": "4.21.0"
   },
   "devDependencies": {
